@@ -1,6 +1,6 @@
 ## Hello, I am Alex 👋 
 👩‍💻 I am passionate about Frontend Technologies and Digital Design!
-🔭 I currently work on Web Projects and I am a lifelong learner in the following Web Technologies:
+🔭 I currently work with Web Projects focusing on the following Web Technologies:
 
 <div dir="auto"><br>
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="alexMaria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;"></a>
